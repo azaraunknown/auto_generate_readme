@@ -75,4 +75,4 @@ Updates the README.md file with the generated file tree.
     - readme_path (str): The path to the README.md file to be updated.
   
  # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](license.md) file for details.
